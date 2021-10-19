@@ -41,7 +41,7 @@ const Banner = () => {
 
                     <Carousel.Caption>
                         <h3>Here You  can Find best Doctor </h3>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <p>PROVIDING QUALITY HEALTHCARE TO MEET OUR NATION'S ASPIRATIONS</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

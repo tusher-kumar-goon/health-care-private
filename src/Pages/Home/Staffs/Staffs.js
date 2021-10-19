@@ -52,7 +52,7 @@ const staffs = [
 
 const Staffs = () => {
     return (
-        <div className='container'>
+        <div id='staffs' className='container'>
             <h2 className='text-primary'>Our Staff</h2>
 
             <div className="row">
