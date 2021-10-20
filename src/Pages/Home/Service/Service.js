@@ -4,7 +4,7 @@ import './Service.css'
 
 const Service = ({ service }) => {
     // cpnst {service}= props;
-    const { key, img, name, visit, from, specilist } = service;
+    const { id, img, name, visit, from, specilist } = service;
     return (
         <div className='service'>
             <img src={img} alt="" />
@@ -12,7 +12,7 @@ const Service = ({ service }) => {
             <h6>Visit {visit} Taka</h6>
             <h5>From {from}</h5>
 
-            <Link to={`/booking/${key}`}><button className='btn-doctor'>Book: {specilist}</button></Link>
+            <Link to={`/booking/${id}`}><button className='btn-doctor'>Book: {specilist}</button></Link>
         </div>
     );
 };

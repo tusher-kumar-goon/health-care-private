@@ -1,6 +1,6 @@
 [
     {
-        "key": 1,
+        "id": "1",
         "name": " Dr. AKM Fazlul Hoque",
         "visit": 1000,
         "details": "Prof. Dr. AKM Fazlul Haque is one of the best Colorectal Surgeon in Bangladesh and the Subcontinent. He has a long 25 years of experience in the field of colon & rectal surgery.",
@@ -9,7 +9,7 @@
         "specilist": "Colorectal Surgery"
     },
     {
-        "key": 2,
+        "id": "2",
         "name": "Dr Amit Agarwal",
         "visit": 2000,
         "details": "Dr Amit Agarwal is currently working at BLK Super Speciality Hospital at the HOD and Director of Medical Oncology Department.",
@@ -18,7 +18,7 @@
         "specilist": "Medical Oncology"
     },
     {
-        "key": 3,
+        "id": "3",
         "name": "Dr Sapna Nangia",
         "visit": 3000,
         "details": "Dr Sapna Nangia is amongst some of the best radiation oncologist in India who has over two decades of experience in her field.",
@@ -27,7 +27,7 @@
         "specilist": "Radio-therapy"
     },
     {
-        "key": 4,
+        "id": "4",
         "name": "Antonio Russi",
         "visit": 4000,
         "details": "Prof. Antonio Russi is recognized as world famous neurologist and the best epileptologist in Spain. The Doctor specializes in non-surgical therapy of severe and rare epilepsy stages.",
@@ -36,7 +36,7 @@
         "specilist": "Neurologist,"
     },
     {
-        "key": 5,
+        "id": "5",
         "name": "Dr. Aafrin Shabbir",
         "visit": 5000,
         "details": "Dr Aafrin Shabbir is an adept medical professional with an overall experience of six years. She is currently working as a Consultant Physician. Her objective is to work in a clinical .",
@@ -45,7 +45,7 @@
         "specilist": "General Medicine"
     },
     {
-        "key": 6,
+        "id": "6",
         "name": "Dr. Myles. B. Abbott, M.D.",
         "visit": 6000,
         "details": "Dr. Myles is also one of the best-known doctors of Pediatricians in the world. He graduated from the University of Miami Leonard M Miller School of Medicine in 1972. He treats the problems of growth and child development.",
@@ -54,7 +54,7 @@
         "specilist": "Medicine "
     },
     {
-        "key": 7,
+        "id": "7",
         "name": "Dr. Naresh Trehan",
         "visit": 7000,
         "details": "Dr. Naresh is a famous Indian cardiovascular and cardiothoracic surgeon. He was born on August 12, 1946, in Delhi, India. He obtained a medical degree from King George’s Medical College in Lucknow.",
@@ -63,7 +63,7 @@
         "specilist": "cardiovascular surge"
     },
     {
-        "key": 8,
+        "id": "8",
         "name": "Dr Harsh Dua",
         "visit": 8000,
         "details": "Dr Harsh Dua one of the best oncologists in India with experience of more than 35 years in the treatment and prevention of cancer.",
@@ -72,7 +72,7 @@
         "specilist": "Medical Oncology"
     },
     {
-        "key": 9,
+        "id": "9",
         "name": "Dr Sudipto Pakrasi",
         "visit": 5000,
         "details": "Prof. Dr. AKM Fazlul Haque is one of the best Colorectal Surgeon in Bangladesh and the Subcontinent. He has a long 25 years of experience in the field of colon & rectal surgery.",
