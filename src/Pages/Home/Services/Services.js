@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react';
-import { useState } from 'react/cjs/react.development';
+import { useState } from 'react';
 import Service from '../Service/Service';
 import './Services.css';
 
 const Services = () => {
     const [services, setServices] = useState([])
     useEffect(() => {
-        fetch('fakeData.json')
+        fetch('/fakeData.json')
             .then(res => res.json())
             .then(data => setServices(data))
     }, [])

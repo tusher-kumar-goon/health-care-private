@@ -16,7 +16,7 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>Doctors & Medical Health</h3>
+                        <h3>Doctors & Medical Health to you</h3>
                         <p>Diagnostic and therapeutic services for diseases of brain.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -28,7 +28,7 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>We Provide Best Services</h3>
+                        <h3>We Provide Best Services to you</h3>
                         <p>Are you looking for doctors?Here the Best dostor you get.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -40,7 +40,7 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Here You  can Find best Doctor </h3>
+                        <h3>Here You  can Find best Doctor to you </h3>
                         <p>PROVIDING QUALITY HEALTHCARE TO MEET OUR NATION'S ASPIRATIONS</p>
                     </Carousel.Caption>
                 </Carousel.Item>

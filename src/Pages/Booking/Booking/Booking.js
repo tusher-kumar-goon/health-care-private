@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useParams } from 'react-router';
-import { useState } from 'react/cjs/react.development';
+import { useState } from 'react';
 import './Booking.css'
 
 const Booking = () => {
