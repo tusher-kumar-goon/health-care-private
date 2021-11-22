@@ -23,7 +23,7 @@ const Header = () => {
                             <Button onClick={logOut} variant="warning">LogOut</Button> :
                             <Nav.Link as={Link} to="/login">Login</Nav.Link>}
                         <Navbar.Text>
-                            <b className="ms-3" > Name: </b> <a href="#login"> <b>{user?.displayName}</b> </a>
+                            <b > Name: </b> <a href="#login"> <b>{user?.displayName}</b> </a>
                         </Navbar.Text>
                     </Navbar.Collapse>
                     <Nav className="me-auto">
