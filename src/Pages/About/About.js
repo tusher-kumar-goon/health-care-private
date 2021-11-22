@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from '../Shared/Footer/Footer';
 import './About.css'
+import aboutImage from '../../../src/images/aboutImage.jpg'
 
 const About = () => {
     return (
@@ -10,9 +11,9 @@ const About = () => {
                 <h1 >About Us</h1>
                 <p className='description'>We started with one mission: SevenHills Group has over two decades of experience in the healthcare sector, providing quality healthcare and valuable experience, supported by a team of compassionate and dedicated medical professionals. .</p>
             </div>
-            <div className="row container-fluid mt-5">
+            <div className="row container-fluid mt-5" >
                 <div className="col-md-6">
-                    <div className="row">
+                    <div className="row mt-5" >
                         <h3>SevenHills Vision</h3>
                         <p>
                             <ul>
@@ -30,7 +31,7 @@ const About = () => {
                     </div>
                 </div>
                 <div className="col-md-6">
-
+                    <img className='aboutImage' src={aboutImage} alt="" />
                 </div>
             </div >
             <div className='row about-down'>
@@ -48,7 +49,7 @@ const About = () => {
                 </div>
             </div>
             <Footer></Footer>
-        </div>
+        </div >
 
     );
 };
